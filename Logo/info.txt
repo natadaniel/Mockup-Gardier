@@ -1,0 +1,6 @@
+color: #6C0CC6 (Reliable)
+font: mitr-300
+font-size: 80px
+similar font: poppins-regular
+espessura: 300
+backgrounf-size: 195px
